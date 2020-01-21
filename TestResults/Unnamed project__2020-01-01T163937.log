@@ -1,0 +1,44 @@
+﻿2020-01-01T16:39:37.0138628-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-01-01T16:39:37.0138628-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.38 in Framework clr40 in x86 mode execution started
+2020-01-01T16:39:37.0138628-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Keebler\source\repos\FluentFramework\FluentFramework.SF\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-01-01T16:39:37.0377985-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Keebler\source\repos\FluentFramework\FluentFramework.SF\bin\Debug\FluentFramework.SF.dll
+2020-01-01T16:39:37.0377985-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Keebler\source\repos\FluentFramework\TestResults" (default)
+2020-01-01T16:39:37.0377985-05:00;VSTestExecutionThread;Info;Profile: 
+2020-01-01T16:39:37.0587410-05:00;VSTestExecutionThread;Info;Log file path: C:\Users\Keebler\source\repos\FluentFramework\TestResults\Unnamed project__2020-01-01T163937.log
+2020-01-01T16:39:37.0687169-05:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-01-01T16:39:37.0756979-05:00;Thread#13;Info;Checking license
+2020-01-01T16:39:37.0866665-05:00;Thread#13;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2020-01-01T16:39:51.0878618-05:00;Thread#13;Info;Evaluation delay finished.
+2020-01-01T16:39:51.0918557-05:00;Thread#13;Info;License check completed
+2020-01-01T16:39:51.0918557-05:00;Thread#13;Info;starting test run
+2020-01-01T16:39:51.0988361-05:00;Thread#13;Info;Discovering target: Default
+2020-01-01T16:39:51.0988361-05:00;Thread#13;Info;Discovering tests from assembly: C:\Users\Keebler\source\repos\FluentFramework\FluentFramework.SF\bin\Debug\FluentFramework.SF.dll
+2020-01-01T16:39:51.1521054-05:00;Thread#13;Info;Discovered tests from assembly: C:\Users\Keebler\source\repos\FluentFramework\FluentFramework.SF\bin\Debug\FluentFramework.SF.dll
+2020-01-01T16:39:51.1531065-05:00:Test Suite Dump
+2020-01-01T16:39:51.1551010-05:00:#0: Unnamed project/ - 
+2020-01-01T16:39:51.1551010-05:00:End: Test Suite Dump
+2020-01-01T16:39:51.1710851-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-01-01T16:39:51.1730792-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-01-01T16:39:51.1730792-05:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-01-01T16:39:51.1730792-05:00:Thread#0:Scheduler: No more tests for thread
+2020-01-01T16:39:51.1740505-05:00:Trying to cancel thread
+2020-01-01T16:39:51.1740505-05:00:Thread cancelled
+2020-01-01T16:39:51.1800657-05:00:Thread#-1:Scheduler: get next test for thread -1
+2020-01-01T16:39:51.1800657-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-01-01T16:39:51.1800657-05:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-01-01T16:39:51.1810313-05:00;Thread#13;Info;test run finished
+2020-01-01T16:39:51.1810313-05:00;Thread#13;Info;publishing test results
+2020-01-01T16:39:51.2119473-05:00;Thread#13;Info;test results published
+2020-01-01T16:39:51.2119473-05:00;Thread#13;Info;generating reports
+2020-01-01T16:39:51.2668344-05:00;Thread#13;Info;Starting external report generation process
+2020-01-01T16:39:54.4454623-05:00;Thread#13;Error;Could not generate test run result reports. An error occurred in the generator.
+2020-01-01T16:39:54.4454623-05:00;Thread#13;Error;External program returned exit code '-2'
+2020-01-01T16:39:54.4454623-05:00;Thread#13;Info;Failed generating reports
+2020-01-01T16:39:54.4534415-05:00:Total: 0
+2020-01-01T16:39:54.4554375-05:00:Succeeded: 0
+2020-01-01T16:39:54.4554375-05:00:Ignored: 0
+2020-01-01T16:39:54.4564348-05:00:Pending: 0
+2020-01-01T16:39:54.4564348-05:00:Skipped: 0
+2020-01-01T16:39:54.4564348-05:00:Failed: 0
+2020-01-01T16:39:54.4634139-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

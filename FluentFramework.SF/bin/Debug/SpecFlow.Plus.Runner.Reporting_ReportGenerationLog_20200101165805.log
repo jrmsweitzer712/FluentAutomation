@@ -1,0 +1,10 @@
+﻿2020-01-01T16:58:05.5237723-05:00;Thread#1;Info;Reading test run result from Json file "C:\Users\Keebler\AppData\Local\Temp\tmp7AA2.tmp".
+2020-01-01T16:58:05.5393932-05:00;Thread#1;Info;Successfully read test run result from Json file "C:\Users\Keebler\AppData\Local\Temp\tmp7AA2.tmp"
+2020-01-01T16:58:05.5393932-05:00;Thread#1;Info;Deserializing test run result
+2020-01-01T16:58:05.9299498-05:00;Thread#1;Info;Successfully deserialized test run result
+2020-01-01T16:58:05.9299498-05:00;Thread#1;Info;Loading test run result
+2020-01-01T16:58:05.9611708-05:00;Thread#1;Info;Successfully loaded test run result
+2020-01-01T16:58:05.9768199-05:00;Thread#1;Info;creating 1 report(s)
+2020-01-01T16:58:05.9768199-05:00;Thread#1;Info;generate Report ReportTemplate.cshtml
+2020-01-01T16:58:06.6470891-05:00;Thread#1;Info;Finished generating reports.
+========== End of log file ==========

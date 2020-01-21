@@ -1,0 +1,49 @@
+﻿2020-01-01T17:14:38.3486274-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-01-01T17:14:38.3486274-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.38 in Framework clr40 in x86 mode execution started
+2020-01-01T17:14:38.3486274-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Keebler\source\repos\FluentFramework\FluentFramework.SF\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-01-01T17:14:38.3805419-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Keebler\source\repos\FluentFramework\FluentFramework.SF\bin\Debug\FluentFramework.SF.dll
+2020-01-01T17:14:38.3825370-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Keebler\source\repos\FluentFramework\TestResults" (default)
+2020-01-01T17:14:38.3825370-05:00;VSTestExecutionThread;Info;Profile: 
+2020-01-01T17:14:38.4084673-05:00;VSTestExecutionThread;Info;Log file path: C:\Users\Keebler\source\repos\FluentFramework\TestResults\Unnamed project__2020-01-01T171438.log
+2020-01-01T17:14:38.4244242-05:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-01-01T17:14:38.4324047-05:00;Thread#13;Info;Checking license
+2020-01-01T17:14:38.4533471-05:00;Thread#13;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2020-01-01T17:14:52.4538960-05:00;Thread#13;Info;Evaluation delay finished.
+2020-01-01T17:14:52.4578440-05:00;Thread#13;Info;License check completed
+2020-01-01T17:14:52.4578440-05:00;Thread#13;Info;starting test run
+2020-01-01T17:14:52.4732907-05:00;Thread#13;Info;Discovering target: Default
+2020-01-01T17:14:52.4732907-05:00;Thread#13;Info;Discovering tests from assembly: C:\Users\Keebler\source\repos\FluentFramework\FluentFramework.SF\bin\Debug\FluentFramework.SF.dll
+2020-01-01T17:14:52.8752242-05:00;Thread#13;Info;Discovered tests from assembly: C:\Users\Keebler\source\repos\FluentFramework\FluentFramework.SF\bin\Debug\FluentFramework.SF.dll
+2020-01-01T17:14:52.8762223-05:00:Test Suite Dump
+2020-01-01T17:14:52.8782167-05:00:#0: Unnamed project/ - 
+2020-01-01T17:14:52.8782167-05:00:#1: Default - 
+2020-01-01T17:14:52.8782167-05:00:#2: FluentFramework.SF - 
+2020-01-01T17:14:52.8782167-05:00:#3: HerokuApp - 
+2020-01-01T17:14:52.9158950-05:00:#4: Load HerokuApp - TestAssembly:FluentFramework.SF/Feature:HerokuApp/Scenario:Load+HerokuApp
+2020-01-01T17:14:52.9158950-05:00:End: Test Suite Dump
+2020-01-01T17:14:52.9378363-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-01-01T17:14:52.9398309-05:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-01-01T17:14:52.9398309-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-01-01T17:14:52.9428228-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-01-01T17:14:52.9428228-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-01-01T17:14:52.9428228-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-01-01T17:14:52.9428228-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-01-01T17:14:52.9438205-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-01-01T17:14:52.9448181-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-01-01T17:14:52.9468123-05:00:Thread #0: creating new test thread executor for FluentFramework.SF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-01-01T17:14:52.9488083-05:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-01-01T17:14:52.9574904-05:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-01-01T17:14:52.9584864-05:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-01-01T17:14:53.3022207-05:00:Thread#0:T:-> Loading plugin C:\Users\Keebler\source\repos\FluentFramework\FluentFramework.SF\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-01-01T17:14:53.3121968-05:00:Thread#0:T:-> Using default config
+2020-01-01T17:14:53.9287680-05:00:Thread#0: Test #4/0 is started on thread #0
+2020-01-01T17:14:54.0068738-05:00:Thread#0:B:Given I have navigated to the HerokuApp main page
+2020-01-01T17:15:00.1731446-05:00:Thread#0:T:done: HerokuAppSteps.GivenIHaveNavigatedToTheHerokuAppMainPage() (6.1s)
+2020-01-01T17:15:00.1731446-05:00:Thread#0:B:When I click link WYSIWYG Editor
+2020-01-01T17:15:01.1910534-05:00:Thread#0:T:done: HerokuAppSteps.WhenIClickLink("WYSIWYG Editor") (1.0s)
+2020-01-01T17:15:01.1910534-05:00:Thread#0:B:Then I should see URL partial /tinymce
+2020-01-01T17:15:01.1940457-05:00:Thread#0:T:done: HerokuAppSteps.ThenIShouldSeeURLPartial("/tinymce") (0.0s)
+2020-01-01T17:15:01.2040176-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-01-01T17:15:01.2040176-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-01-01T17:15:01.2040176-05:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-01-01T17:15:01.2040176-05:00:Thread#0:Scheduler: No more tests for thread
